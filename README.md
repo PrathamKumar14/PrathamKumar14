@@ -10,4 +10,6 @@ I love designing websites and keep things as simple as possible. My goals is to 
 ### 2. 𝔻𝕖𝕧𝕖𝕝𝕠𝕡 𝕨𝕙𝕒𝕥 𝕪𝕠𝕦 𝕟𝕖𝕖𝕕 👨‍💻
 I'm a developer, so I know how to create your website to run across devices using the latest technologies available.
 
-Let's talk ➜ https://twitter.com/pratham85086605
+Catch me on twitter
+
+[![Twiiter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/pratham85086605)
