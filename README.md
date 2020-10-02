@@ -12,4 +12,4 @@ Being a developer with experience empowers me to triumphantly build up websites 
 
 Let's foregather on twitter
 
-[![Twiiter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/pratham85086605)
+[![Twiiter](https://img.icons8.com/nolan/64/twitter-circled.png)](https://twitter.com/pratham85086605)
