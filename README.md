@@ -3,4 +3,4 @@
   <a href="https://twitter.com/prathkum">TWITTER</a>
 </p>
 
-![](https://raw.githubusercontent.com/PrathamKumar14/PrathamKumar14/master/Capture.PNG)
+![](https://raw.githubusercontent.com/PrathamKumar14/PrathamKumar14/master/bg.PNG)
