@@ -12,4 +12,4 @@ I'm a developer, so I know how to create your website to run across devices usin
 
 Catch me on twitter
 
-[![Twiiter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/pratham85086605)
+[![Twiiter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/prathkum)
