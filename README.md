@@ -1,9 +1,7 @@
-<p align="center">
-  <a href="https://pratham.codes"><img src="https://img.icons8.com/clouds/75/000000/domain.png"/></a>
-  <a href="https://twitter.com/prathkum"><img src="https://img.icons8.com/clouds/75/000000/twitter.png"/></a>
-  <a href="https://www.instagram.com/rnezhmet_dinov/"><img src="https://img.icons8.com/clouds/75/000000/instagram-new--v2.png"/></a>
-  <a href="https://www.linkedin.com/in/pratham-abb051175/"><img src="https://img.icons8.com/clouds/75/000000/linkedin.png"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100008740838226"><img src="https://img.icons8.com/clouds/75/000000/facebook-new.png"/></a>
-</p>
+Pratham here; welcome. You might be surprised to learn that there isn't a nice, attractive readme over here. Designing is not my strong suit, therefore I don't want to waste my time trying.
 
-![](https://raw.githubusercontent.com/PrathamKumar14/PrathamKumar14/master/bg.PNG)
+In any case, I write JavaScript, CSS, and React but not every day since I like influencing the community and supporting developers.
+
+I built a strong and huge developer community on [Twitter](https://twitter.com/prathkum). You should follow me I believe.
+
+Exploring web3 nowadays!
