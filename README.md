@@ -1,3 +1,4 @@
+![Banner](Capture.PNG)
 ### Pratham here; welcome.
 
 You might be surprised to learn that there isn't a nice, attractive readme over here. Designing is not my strong suit, therefore I don't want to waste my time trying. I'm intending to significantly influence the web development industry not designing.
